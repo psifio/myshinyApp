@@ -1,0 +1,8 @@
+name: myshinyApp
+account: psifio
+server: shinyapps.io
+bundleId: 199049
+url: https://psifio.shinyapps.io/myshinyApp
+when: 1433712960.04267
+asMultiple: FALSE
+asStatic: FALSE
